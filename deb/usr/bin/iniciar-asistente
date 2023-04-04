@@ -1,0 +1,3 @@
+#!/bin/bash
+sed -i 's/Hidden=true/Hidden=false/g' /etc/xdg/autostart/asistente.desktop
+asistente

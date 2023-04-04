@@ -1,0 +1,12 @@
+Package: quirinux-asistente-general
+Version: 2.8
+Architecture: all
+Maintainer: Charlie Martinez <cmartinez@quirinux.org>
+Installed-Size: 364
+Depends: gambas3-runtime, gambas3-runtime, gambas3-gb-image, gambas3-gb-image, gambas3-gb-form, gambas3-gb-form, quirinuxtemas, quirinux-estilos-general, xfce4-theme-switcher, quirinux-libre
+Section: xfce
+Priority: optional
+Description: Pantalla de bienvenida de Quirinux.
+ Configurar idioma, tema y otras características.
+ Compatible con XFCE.
+

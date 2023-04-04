@@ -1,0 +1,38 @@
+[Desktop Entry]
+Version=1.0
+Name=Quirinux Assistant
+Comment=Set language, theme, etc.
+
+Comment[de]=Legen Sie Sprache, Thema usw. fest.
+Comment[en]=Set language, theme, etc.
+Comment[en_GB]=Set language, theme, etc.
+Comment[en_US]=Set language, theme, etc.
+Comment[es_ES]=Configurar idioma, tema, etc.
+Comment[es_AR]=Configurar idioma, tema, etc.
+Comment[fr]=Définir la langue, le thème, etc.
+Comment[gl_ES]=Establecer idioma, tema, etc.
+Comment[it]=Imposta lingua, tema, ecc.
+Comment[pt]=Definir idioma, tema, etc.
+Comment[pt_BR]=Definir idioma, tema, etc.
+Comment[ru]=Установите язык, тему и т. д.
+
+
+Exec=iniciar-asistente
+Icon=asistente
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=System;
+
+Name[de]=Quirinux-Assistent
+Name[en]=Quirinux Assistant
+Name[en_GB]=Quirinux Assistant
+Name[en_US]=Quirinux Assistant
+Name[es_ES]=Asistente Quirinux
+Name[es_AR]=Asistente Quirinux
+Name[fr]=Assistant Quirinux
+Name[gl_ES]=Asistente Quirinux
+Name[it]=Assistente di Quirinux
+Name[pt]=Quirinux Assistente
+Name[pt_BR]=Quirinux Assistente
+Name[ru]=Ассистент Квиринукс
